@@ -30,7 +30,7 @@ Linear Traverse<br><br>
 Time-Complexity: O(n^2)<br>
 Space-Complexity: O(1)
 
-* ### [Approach-2](/approach_2.py)
+* ### [Approach-2](./approach_2.py)
 
 Using Hashing Technique `[Hashmaps][Dictionaries]`<br><br>
 Time Complexity: O(n)<br>
