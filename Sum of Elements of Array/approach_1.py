@@ -14,7 +14,7 @@ This program takes into account that there is only one such subarray
 which can sum to the given number num.
 In some cases, the question can be modified as to return all such values,
 which sum up to the given number.
-In such a case, we need to store the values instead of return one value here
+In such a case, we need to store the values instead of returning single value here
 """
 
 if(__name__=="__main__"):
