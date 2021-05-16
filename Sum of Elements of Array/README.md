@@ -24,7 +24,7 @@ Output 2: None
 ## Approach:
 
 
-* ### [Approach-1](#)
+* ### [Approach-1](./approach_1.py)
 
 Linear Traverse<br><br>
 Time-Complexity: O(n^2)<br>
@@ -36,12 +36,14 @@ Using Hashing Technique `[Hashmaps][Dictionaries]`<br><br>
 Time Complexity: O(n)<br>
 Space Complexity: O(n)
 
-* ### [Approach-3](#)
+* ### [Approach-3](./approach_3.py)
 
 Sort the array and Find sum<br><br>
 Time-Compelxity: O(nlogn)<br>
 Space-Complexity: O(1)<br>
 
->Note: Approach-3 is based on the algorithm [**Divide and Conquer**](#) <br>
-Time-Compelxity is O(nlogn) due to sorting the array.<br>
+*This is basically a two pointer approach where we first sort the array.<br>Then we take a first-node and a last-node, comapre the sum, and then accordingly shift the nodes.<br><br>*
+
+>Note: Approach-3 is based on the algorithm [**Divide and Conquer**](https://github.com/noviicee/DSA_noviicee/tree/main/Algo/Divide%20and%20Conquer) <br>
+Time-Compelxity is O(nlogn) due to sorting of the array.<br>
 [Tweet](https://twitter.com/reachtoana/status/1393061275681259521)
