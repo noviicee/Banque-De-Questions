@@ -40,5 +40,5 @@ n does not contain any leading zeros and represents a positive integer.
 <br>
 
 
->[**Logic Behind one-liner**](100_Days\Day-4\Deci-Binary Numbers\logic.md)
+>[**Logic Behind one-liner**](./logic.md)
 
