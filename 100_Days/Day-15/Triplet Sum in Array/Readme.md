@@ -50,12 +50,12 @@ _Constraints:_ <br>
 
 ## Approaches:
 
-1. [Best-Approach](100_Days/Day-15/Triplet Sum in Array/triplet_sum_array_1.py):
+1. [Best-Approach](.triplet_sum_array_1.py):
 
     - Time-Complexity: O(n^2)
     - Space-Complexity: O(1)
 
-2. [Approach-2](100_Days/Day-15/Triplet Sum in Array/triplet_sum_array_2.py)
+2. [Approach-2](./triplet_sum_array_2.py)
 
     - Time-Complexity: O(n^2)
     - Space-Complexity: O(n)
