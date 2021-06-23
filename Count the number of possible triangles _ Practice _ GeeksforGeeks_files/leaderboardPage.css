@@ -1,0 +1,360 @@
+.leaderboard-title, .myPerformance-heading {
+    margin-left: 1.5rem;
+    margin-top: 2rem;
+    color: #09212E;
+    font-family: 'sofia-pro';
+}
+
+.myPerformance-heading{
+    font-weight:bolder;
+}
+
+#filterDropDownButton, #courseFilterDropDownButton {
+    color: #2F8D46;
+    border: none;
+    background: transparent;
+    font-weight: bolder;
+    font-size: large;
+    margin-top: 0.75rem;
+}
+
+.time-filter li a, .course-filter li a {
+    color: #2F8D46;
+    border: none;
+    background: transparent;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+.course-filter li a {
+    font-size: 1.5rem;
+}
+
+.userDetailsContainer {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.userDetailsBox{
+    margin:1rem;
+    padding:0.5rem;
+}
+
+.userRankHeading{
+    color:#40424E;
+    font-size:1.6rem;
+    font-family:sofia-pro;
+}
+
+.viewAllBtn{
+    color:#2F8D46;
+    float:right;
+    margin-right:2rem;
+    font-size:2rem;
+}
+
+.problemsSolvedBox{
+    width:90%; 
+    background-color:#FFFFFF;
+    margin-left:2rem;
+    padding:10px 20px;
+}
+
+.solvedProblems{
+    list-style-type: circle;
+    padding-left:2rem;
+}
+
+.problemsSolvedHeading{
+    margin-left:2rem;
+    float:left;
+    font-size:2rem;
+    color:#09212E;
+    opacity:1;
+}
+
+.coursePerformanceHeadingBox{
+    width:90%; 
+    margin-left:0rem;
+    margin-bottom:1.4rem;
+}
+
+#leaderboardTable, #coursePerformanceTable {
+    width: 100%;
+    table-layout: fixed;
+    font-family: "urw-din";
+    border: 0.1rem solid #DDDDDD;
+}
+
+#coursePerformanceTable {
+    font-family:sofia-pro;
+}
+
+#leaderboardTable th, #coursePerformanceTable th {
+    background-color: white;
+    align-items: center;
+    color: black;
+    font-size: 1rem;
+    border-bottom: 0.2rem solid #DDDDDD;
+    text-align: center;
+}
+
+#leaderboardTable td {
+    text-align: center;
+    background-color: white;
+    padding: 1rem;
+    word-wrap: break-word;
+    border:none;
+}
+
+
+#leaderboardTable td.loggedinUser {
+    color: #2F8D46;
+    font-weight: 700;
+}
+
+#leaderboardTable td.loggedinUser a {
+    color: #2F8D46;
+}
+
+#leaderboardTable td.completeLeaderboard {
+    background-color: #2F8D46;
+    color: #fff;
+}
+
+.pagination li a {
+    color: #40424E;
+    opacity: 1;
+    background-color: e7ecef;
+    border-radius: 0.8rem;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #2F8D46;
+    border-color: #2F8D46;
+}
+
+.pagination li a:hover, ul li a:focus {
+    background-color: #2F8D46;
+    color: white;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+.image-cropper {
+    width: 8rem;
+    height: 8rem;
+    position: relative;
+    overflow: hidden;
+    float:left;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    width:100%;
+}
+
+.user-fullname {
+    letter-spacing: 0px;
+    color: #17181A;
+    opacity: 0.7;
+    font-family: 'sofia-pro';
+    font-size: 1.8rem;
+}
+
+.user-handle {
+    font-family: 'sofia-pro';
+    font-size: 1.7rem;
+    color: #17181A;
+    opacity: 0.5;
+}
+
+.rankBox {
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.problem-name {
+    font-size: 1.4rem;
+}
+
+#trackWiseRank, #contestWiseRank, #trackWiseScore, #contestWiseScore {
+    text-align: center;
+    font-family: "urw-din";
+}
+
+#coursePerformanceTable .rank-heading{
+    font-family:sofia-pro;
+    text-transform:uppercase
+}
+
+a.problem-name {
+    color: black;
+}
+
+a[class=problem-name]:link {
+    background-color: transparent;
+    text-decoration: underline;
+    color: black;
+}
+
+a[class=problem-name]:hover {
+    background-color: transparent;
+    text-decoration: underline;
+    color: var(--color-gfg-highlight);
+}
+
+::marker {
+    font-size: 1.4rem;
+}
+
+.batchNameOuterContainer {
+    background: #BDDACF 0% 0% no-repeat padding-box;
+    border-radius: 0.8rem;
+    margin-left:2rem;
+    float:right;
+    margin-top:1.5rem;
+}
+
+.batchName {
+    padding: 0.8rem;
+    font-family: "sofia-pro";
+    font-size: 1.2rem;
+    text-align: left;
+    letter-spacing: 0rem;
+    color: #6AAD7B;
+    text-transform: uppercase;
+    opacity: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.coursePerformanceHeading{
+    margin-left:2rem;
+    float:left;
+    font-size:2rem;
+    color:#09212E;
+    opacity:1;
+    margin-top:1.5rem;
+}
+
+.coursePerformanceContainer{
+    background-color:#FFFFFF;
+    margin:0.5rem;
+    width:96%;
+    padding:10px 0px;
+}
+
+.leaderboardHeading{
+    font-weight:bolder;
+    font-size:x-large;
+    float:left;
+}
+
+.rankingBrackets{
+    font-weight:bold;
+    font-size:x-large;
+}
+
+.row-text-center{
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:5rem;
+}
+
+.course-name{
+    font-size:1.5rem;
+}
+
+#LoginToSeePerformance{
+    background-color: black;
+    border-radius: 2rem;
+    margin-top: 35%;
+    width: 100%;
+    padding: 2rem;
+    cursor: pointer;
+}
+
+.showingLabel{
+    float:left;
+    margin-top: 1rem;
+    margin-left:1.5rem;
+    font-size: 2rem;
+    color:#40424E;
+    opacity:90%;
+    font-family:urw-din;
+}
+
+.choose-course-heading{
+    float:left;
+    margin-top: 1.5rem; 
+    margin-left:2.5rem; 
+    font-size: 1.5rem;
+    color:#40424E;
+    opacity:90%;
+    font-family:urw-din;
+}
+
+.bootstrap-select>.dropdown-toggle{
+    margin-left:1rem;
+}
+
+@media screen and (max-width: 760px) {
+    .image-cropper {
+        width: 6rem;
+        height: 6rem;
+        position: relative;
+        overflow: hidden;
+        border-radius: 100%;
+        margin-top: 2rem;
+        margin-right: 2rem;
+        margin-left: 2rem;
+        padding: 0.5rem;
+    }
+    .profile-pic {
+        display: inline;
+        margin: 0 auto;
+        margin-left: 5%;
+        height: 100%;
+        width: auto;
+    }
+
+    #LoginToSeePerformance{
+        background-color: black;
+        border-radius: 2rem;
+        margin-top: -5%;
+        width: 80%;
+        padding: 2rem;
+        cursor: pointer;    
+        margin-left: 10%;
+        margin-bottom:5%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .selected-course-name, .course-filter {
+        margin-left: 10%;
+    }
+
+    #LoginToSeePerformance{
+    background-color: black;
+    border-radius: 2rem;
+    margin-top: -5%;
+    width: 80%;
+    padding: 2rem;
+    cursor: pointer;
+    margin-left:10%;
+    margin-bottom:5%;
+    }
+}
