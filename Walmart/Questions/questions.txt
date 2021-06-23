@@ -1,0 +1,16 @@
+Walmart - Previously Asked Questions 
+
+Coding Test :
+1.Longest Increasing Subsequence.
+2.Find the third most frequent element in an array.
+3.Maximum sum in array such that no adjacent elements are selected.
+4.Given a function that generates only 2 outcomes say 0 or 1 with equal probability and given a number n, create another function from it such that the new function generates numbers from 0 to n with equal probability.
+5.Return the number of Fake Palindrome substring in a string, where Fake Palindrome is a string whose anagram is a palindrome.
+6.Create a hash function for strings(made of lower-case English letters) of a fixed length(say n), such that there are no collisions in the hash function.
+7.Find a continuous subarray whose sum is equal to target sum.
+8.Find the minimum sum of the elements of the array which are not part of the Longest increasing subsequence(LIS).
+9.Maximum submatrix sum 
+10.All possible permutations of a string
+11.Bottom view of binary tree 
+12.Let’s say you have to make a database that removes data from itself after a certain expiration period (say 5 years), how will you implement it?
+
