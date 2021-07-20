@@ -1,7 +1,7 @@
 ## Problem Description
 
 You are provided with an array(arr) and a number(num). The task is to find two values in the subarray whose sum is equal to the number num.<br>
-If there do not exist nay such value in the subarray, the function should return `None` .
+If there do not exist any such value in the subarray, the function should return `None` .
 
 ### Examples:
 
