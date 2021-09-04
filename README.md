@@ -5,5 +5,5 @@ This repository aims to curate  questions (mainly on Python as of now, more can 
 <br>
 
 <p align=center>
-  <img src="https://www.kindpng.com/picc/m/260-2606177_clipboard-clipart-restaurant-writing-a-note-clipart-hd.png" height=200 widht=200>
+  <img src="https://www.kindpng.com/picc/m/260-2606177_clipboard-clipart-restaurant-writing-a-note-clipart-hd.png" height=180 widht=180>
 </p>
