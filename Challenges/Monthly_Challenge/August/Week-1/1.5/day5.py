@@ -3,3 +3,6 @@
 def stoneGame(piles):
     return True
     
+"""This is a really interesting problem, since
+with some effort, we can see that Alex will always win the 4 pile game.
+"""
