@@ -1,11 +1,14 @@
 on: [push]
 
 jobs:
-  merge_conflict_job:
+  check_for_conflicts_job:
     runs-on: ubuntu-latest
-    name: Chexk for merge conflicts
+    name: Check for merge conflicts
     steps:
       - name: Check for Conflicts Action
         uses: actions/check-for-conflicts-action@v1
         with:
           who-to-greet: 'Noviicee'
+      # Use the output from the `hello` step
+      - name: Get the output time
+        run: echo "The time was ${{ steps.hello.outputs.time }}"
