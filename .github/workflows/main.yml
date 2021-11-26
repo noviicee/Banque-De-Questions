@@ -9,6 +9,6 @@ jobs:
       - uses: actions/checkout@v2
       # Run the actual merge conflict finder
       - name: Check for Conflicts Action
-        uses: actions/check-for-conflicts@v2.0
+        uses: actions/check-for-conflicts@v1
         with:
           who-to-greet: 'Noviicee'
