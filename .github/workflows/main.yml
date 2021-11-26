@@ -1,27 +1,14 @@
-name: 'Check for Conflicts Action'
-description: 'Greet, Record Time and Check if there are any unresolved merge conflicts'
-branding:
-  icon: 'git-merge'
-  color: 'gray-dark'
-inputs:
-  who-to-greet:  # id of input
-    description: 'Who to greet'
-    required: true
-    default: 'World'
-  exclude_dir:
-    description: "Glob of directories to exclude from check"
-    required: false
-    default: 'node_modules,vendor'
-  excludes:
-    description: "Glob of files to exclude from check, supports wildcards"
-    required: false
-    default: ''
-outputs:
-  time: # id of output
-    description: 'The time we greeted you'
-runs:
-  using: 'docker'
-  image: 'Dockerfile'
-  
-  args:
-    - ${{ inputs.who-to-greet }}
+on: [push]
+
+jobs:
+  merge_conflict_job:
+    runs-on: ubuntu-latest
+    name: Find merge conflicts
+    steps:
+      # Checkout the source code so we have some files to look at.
+      - uses: actions/checkout@v2
+      # Run the actual merge conflict finder
+      - name: Check for Conflicts Action
+        uses: actions/check-for-conflicts@v2.0
+        with:
+          who-to-greet: 'Noviicee'
