@@ -5,6 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Check for merge conflicts
     steps:
+      # Checkout the source code so we have some files to look at.
+      - uses: actions/checkout@v1
+      # Run the actual conflict finder
       - name: Check for Conflicts Action
         uses: actions/check-for-conflicts-action@v1
         with:
