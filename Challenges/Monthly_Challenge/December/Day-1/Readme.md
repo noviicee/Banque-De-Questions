@@ -35,7 +35,7 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 
 ***Base Case***
 <br>
-If the length of `nums` is 1 or 2, then answer will straigh-forward be maximum of *nums[1]* and *nums[2]* .
+If the length of `nums` is 1 or 2, then answer will straight-forward be maximum of *nums[1]* and *nums[2]* .
 
 ### Approach-1
 
@@ -62,7 +62,7 @@ If we did not rob the previous day, then we must rob today and in this case the 
 If we try to put this statement into a formula,
 for each day dp[i], the maximum money robbed will be maximum of dp[i-1] and dp[i-2]+nums[i].
 
-If we do this for all the remaining elements in the array, the resultant *dp[i]* will bbe the maximum money that can be robbed
+If we do this for all the remaining elements in the array, the resultant *dp[i]* will be the maximum money that can be robbed
 
 ### [Solution](Challenges/Monthly_Challenge/December/Day-1/sol.py)
 
@@ -77,7 +77,7 @@ If we do this for all the remaining elements in the array, the resultant *dp[i]*
 <br>
 The approach is similar to the abpve approach. Only difference is that instead of keeping the whole array *dp*. we only keep the maximum money earned till the previous day and the day before the previous day.
 <br>
-Ultimately, we require only these value so we can optimize space complecity by using a varible instead of the whole array.
+Ultimately, we require only these value so we can optimize space complexity by using a varible instead of the whole array.
 
 ### [Solution-1](Challenges/Monthly_Challenge/December/Day-1/sol-1.py)
 
@@ -88,6 +88,6 @@ Ultimately, we require only these value so we can optimize space complecity by u
 
 <hr>
 
-*Note: Approach-1 was found to be a little faster than Approach-2 in practical implementation*
+*Note: Approach-1 was found to be a little faster than Approach-2 in practical implementation*.
 
 >[Refer](https://leetcode.com/problems/house-robber/)
