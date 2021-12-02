@@ -51,3 +51,13 @@ Here, we are forming two Linked Lists, oddList (for storing the odd values) and 
 We are taking *head* and *odd* as the head and tail for oddList, and *evenhead* and *even* as the head and tail for the evenList.
 <br>
 Note that here *odd* and *even* act as both tail nodes for new Linked Lists as well as iterators for the given Linked List.
+
+[Solution](sol.py)
+
+*Compelxity-Analysis* 
+* Time-Complexity= O(N)
+<br>
+* Space-Complexity= O(1)
+
+>[Refer](https://leetcode.com/problems/odd-even-linked-list/solution/)
+

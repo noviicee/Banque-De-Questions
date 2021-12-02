@@ -64,7 +64,7 @@ for each day dp[i], the maximum money robbed will be maximum of dp[i-1] and dp[i
 
 If we do this for all the remaining elements in the array, the resultant *dp[i]* will be the maximum money that can be robbed
 
-### [Solution](Challenges/Monthly_Challenge/December/Day-1/sol.py)
+### [Solution](sol.py)
 
 *Complexity-Analysis*
 <br>
@@ -79,7 +79,7 @@ The approach is similar to the abpve approach. Only difference is that instead o
 <br>
 Ultimately, we require only these value so we can optimize space complexity by using a varible instead of the whole array.
 
-### [Solution-1](Challenges/Monthly_Challenge/December/Day-1/sol-1.py)
+### [Solution-1](sol-1.py)
 
 *Complexity-Analysis*
 <br>
