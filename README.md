@@ -1,6 +1,6 @@
 # Banque-De-Questions
 
-This repository aims to curate  questions (mainly on Python as of now, more can be added further) and their implementations by using different methods and approaches which one comes across while learning.
+This repository aims to curate challenhhes and questions (mainly on Python as of now, more can be added further) along with their implementations by using different methods and approaches which one comes across while learning.
 
 <br>
 
