@@ -1,3 +1,3 @@
 ## Topics:
 
-1. [Strings](HackerRank/Strings)
+1. [Strings](./Strings)
