@@ -20,6 +20,5 @@ We get maximum sum by adding subarray {4, 2, 10, 23}
 of size 4.
 ```
 
-[Brute Force Approach](/Examples/file1.py) <br>
-[Sliding Window Technique](/Examples/file2.py)
-
+[Brute Force Approach](Topics/Sliding Window/Examples/file1.py) <br>
+[Sliding Window Technique](Topics/Sliding Window/Examples/file2.py)
