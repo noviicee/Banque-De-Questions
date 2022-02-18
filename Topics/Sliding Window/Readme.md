@@ -22,3 +22,18 @@ of size 4.
 
 [Brute Force Approach](Topics/Sliding Window/Examples/file1.py) <br>
 [Sliding Window Technique](Topics/Sliding Window/Examples/file2.py)
+
+<br><hr><br>
+
+
+| S.No | Question-Name                           | Link                                                                                                                                                                           | Level  |
+|------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 1    | Max Sum Subarray of size K              | [Follow](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1/?page=1&difficulty[]=-1&status[]=unsolved&category[]=sliding-window&sortBy=submissions#) | Basic  |
+| 2    | Subarray with given sum                 | [Follow](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1/?page=1&status[]=unsolved&category[]=sliding-window&sortBy=submissions#)             | Easy   |
+| 3    | Subarray with 0 sum                     | [Follow](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1/?page=1&category[]=sliding-window&sortBy=submissions)                                    | Easy   |
+| 4    | Circular tour                           | [Follow](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1/?page=1&status[]=unsolved&category[]=sliding-window&sortBy=submissions)                        | Medium |
+| 5    | Count distinct elements in every window | [Follow](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1/?page=1&category[]=sliding-window&sortBy=submissions)                           | Easy   |
+| 6    | Largest subarray of 0's and 1's         | [Follow](https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1/?page=1&category[]=sliding-window&sortBy=submissions)                                     | Easy   |
+|      |                                         |                                                                                                                                                                                |        |
+|      |                                         |                                                                                                                                                                                |        |
+|      |                                         |                                                                                                                                                                                |        |
