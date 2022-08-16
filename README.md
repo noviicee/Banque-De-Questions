@@ -2,6 +2,9 @@
 
 This repository aims to curate challenges and questions (mainly on Python as of now, more can be added further) along with their implementations by using different methods and approaches which one comes across while learning.
 
+_If you have some ideas, or you want to contribute to the project, kindly check out the [Contributing Guidelines](./CONTRIBUTING.md)._
+<br> _We will be happy to have your contributions. :heart:_
+
 <br>
 
 <p align=center>
