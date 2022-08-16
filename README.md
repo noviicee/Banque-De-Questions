@@ -113,3 +113,9 @@ will add..
 | 14   |                           |
 | 15   |                           |
 -->
+
+------------------------------
+_Hope you found the questions useful :)_
+<br> _Do not forget to :star: the repo for future use!_
+
+-------------------------------
