@@ -10,6 +10,14 @@ I'm really glad you're reading this, because we need volunteer developers to hel
 The following is a set of guidelines for contributing to the project on GitHub.
 These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
+## Working on Issues
+
+Please take a moment to request the assignment of a issue before you begin working on it.
+In open source projects, it is occasionally possible that multiple people are working on the same problem without being aware of one another.
+Assigning someone to an issue is merely a method of keeping track of who is working on what and removing confusion.
+It saves the contributor's time and resources, as well as the time and resources of the project maintainer. 
+<br> You can have a look at all the open issues [here](https://github.com/noviicee/Banque-De-Questions/issues). You can also open up new issues always!
+
 ## Testing
 
 Please check that code you create is acceptable and working.
