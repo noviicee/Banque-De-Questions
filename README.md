@@ -2,18 +2,25 @@
 
 This repository aims to curate challenges and questions (mainly on Python as of now, more can be added further) along with their implementations by using different methods and approaches which one comes across while learning.
 
+<br>
+
+<p align=center>
+  <img src="https://www.kindpng.com/picc/m/260-2606177_clipboard-clipart-restaurant-writing-a-note-clipart-hd.png" height=180 widht=180>
+</p>
+
+
 _If you have some ideas, or you want to contribute to the project, kindly check out the [Contributing Guidelines](./CONTRIBUTING.md)._
 <br> _We will be happy to have your contributions. :heart:_
 
 You can check out the opened issues [here](https://github.com/noviicee/Banque-De-Questions/issues).
 <br>Or you can always create your own issues!
 
-<br>[How to contribute a problem to the repository](#contributing-a-problem).
+[How to contribute a problem to the repository](#contributing-a-problem).
 
 <br>
 
 <p align=center>
-  <img src="https://www.kindpng.com/picc/m/260-2606177_clipboard-clipart-restaurant-writing-a-note-clipart-hd.png" height=180 widht=180>
+  <img src="https://dentistry.co.uk/wp-content/uploads/2019/02/Puzzle_1022439421-600x400.jpg" height=180 widht=180>
 </p>
 
 ## Inside the Repo
