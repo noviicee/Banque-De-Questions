@@ -115,7 +115,7 @@ will add..
 -->
 
 ------------------------------
-_Hope you found the questions useful :)_
-<br> _Do not forget to :star: the repo for future use!_
+**_Hope you found the questions useful :)_
+<br> _Do not forget to :star: the repo for future use!_**
 
 -------------------------------
