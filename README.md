@@ -1,6 +1,15 @@
 # Banque-De-Questions
 
 This repository aims to curate challenges and questions (mainly on Python as of now, more can be added further) along with their implementations by using different methods and approaches which one comes across while learning.
+There is Bunch of question in diffreent section you can check and make it into your daily task.
+You can start with challenge section to upskill yourself, there is lot of challenge and question links of GFG and Leetcode to solve with right approch.
+<summary>100 days of code challenge</summary>
+<summary>30 days of code challenge</summary>
+<summary>30 days of DSA challenge</summary>
+<summary>Monthly code challenge</summary>
+
+This challenge section Improve your consistency also makes your leetcode and GFG account attractive.
+Start Today With Me!!!
 
 _If you have some ideas, or you want to contribute to the project, kindly check out the [Contributing Guidelines](./CONTRIBUTING.md)._
 <br> _We will be happy to have your contributions. :heart:_
