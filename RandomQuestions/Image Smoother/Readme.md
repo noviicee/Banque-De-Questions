@@ -48,3 +48,9 @@ For the point (1,1): floor((50+200+200+200+200+100+100+100+100)/9) = floor(138.8
 
 ***Related Topics*** <br>
 `Array` `Matrix`
+
+---
+
+> Problem taken from [Leetcode](https://leetcode.com/problems/image-smoother/description/).
+
+---
