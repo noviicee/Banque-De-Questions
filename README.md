@@ -159,6 +159,7 @@ Check out the [Contributing Guidelines](https://github.com/noviicee/Banque-De-Qu
 * Add a meaningful description of your pull request
 * Click **Create pull request** to open a new pull request
 
+### Contributors
 ------------------------------
 **_Hope you found the questions useful :)_
 <br>_Thanks for visiting._
