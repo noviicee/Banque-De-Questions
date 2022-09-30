@@ -160,6 +160,25 @@ Check out the [Contributing Guidelines](https://github.com/noviicee/Banque-De-Qu
 * Click **Create pull request** to open a new pull request
 
 ### Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/noviicee>
+            <img src=https://avatars.githubusercontent.com/u/72334601?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anamika/>
+            <br />
+            <sub style="font-size:14px"><b>Anamika</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/donheshanthaka>
+            <img src=https://avatars.githubusercontent.com/u/61963664?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Heshanthaka/>
+            <br />
+            <sub style="font-size:14px"><b>Heshanthaka</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
 ------------------------------
 **_Hope you found the questions useful :)_
 <br>_Thanks for visiting._
