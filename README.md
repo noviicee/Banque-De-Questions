@@ -139,6 +139,26 @@ Begin Right Now!
 
 Check out the [Contributing Guidelines](https://github.com/noviicee/Banque-De-Questions/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/noviicee/Banque-De-Questions/blob/main/CODE_OF_CONDUCT.md) as well. 
 
+# How to make a pull request (PR)
+
+* Fork the repo
+* Clone the repo by opening the terminal on your computer and running the command:
+```bash
+  git clone https://github.com/`your-github-username`/Banque-De-Questions.git
+```
+* Create a new branch by using the command:
+```bash
+  git checkout -b valid_branch_name
+```
+* Commit the changes.
+* Push the changes to the forked repo:
+```bash
+  git push -u origin `branch_name`
+```
+* Click the **Compare & pull request** button.
+* Add a meaningful description of your pull request
+* Click **Create pull request** to open a new pull request
+
 ------------------------------
 **_Hope you found the questions useful :)_
 <br>_Thanks for visiting._
