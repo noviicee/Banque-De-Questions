@@ -17,3 +17,7 @@ class Solution:
             return s // squares
                        
         return [[avg(i, j) for j in range(n)] for i in range(m)]
+        
+img = [[100,200,100],[200,50,200],[100,200,100]] # Output: [[137,141,137],[141,138,141],[137,141,137]]
+obj= Solution()
+obj.print(imageSmoother(img))
