@@ -158,6 +158,28 @@ Check out the [Contributing Guidelines](https://github.com/noviicee/Banque-De-Qu
 * Click the **Compare & pull request** button.
 * Add a meaningful description of your pull request
 * Click **Create pull request** to open a new pull request
+  
+# Contributors 💪 
+Thanks a lot for spending your time helping. Thanks a lot! Keep rocking 🍻
+<!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/noviicee">
+            <img src="https://avatars.githubusercontent.com/u/72334601?v=4" width="100;" alt="noviicee"/>
+            <br />
+            <sub><b>Anamika</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/donheshanthaka">
+            <img src="https://avatars.githubusercontent.com/u/61963664?v=4" width="100;" alt="donheshanthaka"/>
+            <br />
+            <sub><b>Heshanthaka</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->
 
 ------------------------------
 **_Hope you found the questions useful :)_
