@@ -160,7 +160,10 @@ Check out the [Contributing Guidelines](https://github.com/noviicee/Banque-De-Qu
 * Click **Create pull request** to open a new pull request
   
 # Contributors 💪 
-Thanks a lot for spending your time helping. Thanks a lot! Keep rocking 🍻
+
+Thanks a lot for spending your time helping improve the project. <br>
+Keep rocking 🍻
+
 <!-- readme: contributors -start -->
 <table>
 <tr>
