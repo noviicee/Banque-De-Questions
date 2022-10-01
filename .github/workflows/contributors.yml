@@ -5,6 +5,10 @@ on:
   push:
     branches: main
 
+permissions:
+  contents: write
+  packages: write
+
 jobs:
   add-contributors:
     runs-on: ubuntu-latest
