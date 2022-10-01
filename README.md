@@ -192,6 +192,13 @@ Keep rocking 🍻
 <!-- readme: contributors -end -->
 
 ------------------------------
+
+***Thank you*** :heart:
+
+<p align=center>
+  <img src="https://media0.giphy.com/media/L4fB9di7ekn3F5PXaW/giphy.gif" height=180 widht=180>
+</p>
+
 **_Hope you found the questions useful :)_
 <br>_Thanks for visiting._
 <br> _Do not forget to :star: the repo for future use!_**
