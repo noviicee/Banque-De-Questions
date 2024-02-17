@@ -10,13 +10,9 @@ class Solution:
         # j can be written as (2*i+1, and 2*i+2)
         for i in range(n//2):
             j=(2*i)+1
-            if (arr[i]<arr[j]) or (arr[i]<arr[j+1]):
+            # comparing last loop in case j became equal to n-1 during the last loop:
+            if (arr[i]<arr[j]) or (j+1<n and arr[i]<arr[j]):
                 return False
-            #print(i,j)
-        #print("end of loop:",i,j)
-        # comparing last loop in case j became equal to n-1 during the last loop:
-        #if arr[i]<arr[j-1]:
-        #    return False
         return True
 
 # {    
