@@ -2,7 +2,6 @@ class Solution:
     
     #Complete this function
     
-    #Function to return the name of candidate that received maximum votes.
     def isMaxHeap(self,arr,n):
         # Your code goes here  
 

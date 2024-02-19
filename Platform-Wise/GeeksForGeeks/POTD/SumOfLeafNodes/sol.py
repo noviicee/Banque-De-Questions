@@ -2,7 +2,7 @@ class Solution:
     
     #Complete this function
     
-    def isMaxHeap(self,arr,n):
+    def sumOfLeafNodes(self, root):
         # Your code goes here  
         parent = arr[0]
         
