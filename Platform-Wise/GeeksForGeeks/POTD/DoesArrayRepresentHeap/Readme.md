@@ -1,4 +1,4 @@
-# Winner of an Election
+# Does Array Represent Heap
 
 > Level: Easy
 
